@@ -1,0 +1,7 @@
+C:\Users\werezz\source\repos\TestConsoleApp\TestConsoleApp\bin\Debug\TestConsoleApp.exe.config
+C:\Users\werezz\source\repos\TestConsoleApp\TestConsoleApp\bin\Debug\TestConsoleApp.exe
+C:\Users\werezz\source\repos\TestConsoleApp\TestConsoleApp\bin\Debug\TestConsoleApp.pdb
+C:\Users\werezz\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.csprojAssemblyReference.cache
+C:\Users\werezz\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\werezz\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.exe
+C:\Users\werezz\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.pdb
